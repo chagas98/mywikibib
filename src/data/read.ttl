@@ -8,6 +8,12 @@ wd:Q104735914 wb:has_notes wbn:Q104735914.md ;
 wd:Q18507561 wb:has_notes wbn:Q18507561.md ;
     wb:read_in "+2022-05-25T00:00:00Z/11" .
 
+wd:Q40701743 wb:has_notes wbn:Q40701743.md ;
+    wb:read_in "+2022-05-26T00:00:00Z/11" .
+
+wd:Q47601200 wb:has_notes wbn:Q47601200.md ;
+    wb:read_in "+2022-05-26T00:00:00Z/11" .
+
 wd:Q87830400 wb:has_notes wbn:Q87830400.md ;
     wb:read_in "+2022-05-25T00:00:00Z/11" .
 
