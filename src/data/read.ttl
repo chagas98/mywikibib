@@ -2,6 +2,9 @@
 @prefix wbn: <https://github.com/lubianat/wikidata_bib/tree/main/notes/> .
 @prefix wd: <http://www.wikidata.org/entity/> .
 
+wd:Q18507561 wb:has_notes wbn:Q18507561.md ;
+    wb:read_in "+2022-05-25T00:00:00Z/11" .
+
 wd:Q87830400 wb:has_notes wbn:Q87830400.md ;
     wb:read_in "+2022-05-25T00:00:00Z/11" .
 

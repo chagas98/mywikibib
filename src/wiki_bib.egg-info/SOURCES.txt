@@ -2,6 +2,7 @@ LICENSE
 README.md
 pyproject.toml
 setup.cfg
+setup.py
 src/wiki_bib/__init__.py
 src/wiki_bib/cli.py
 src/wiki_bib/drop_last.py
